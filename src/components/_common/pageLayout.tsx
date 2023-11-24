@@ -1,11 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  /* width: calc(100% - 150px); */
-  width: 80vw;
+  width: 73vw;
   margin: 0 auto;
   padding: 0 30px;
-
   display: flex;
   flex-direction: column;
   align-items: center;
