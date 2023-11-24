@@ -427,7 +427,7 @@ const Wrapper = styled.form`
 const Title = styled.input`
   width: 300px;
   border-bottom: 1px #d9d9d9 solid;
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 80px;
